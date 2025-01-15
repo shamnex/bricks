@@ -5,7 +5,7 @@ repository: https://github.com/fabiancrx/bricks/tree/main/app_theme
 version: 0.2.2+5
 
 environment:
-  mason: ">=0.1.0-dev.48 <0.1.0"
+  mason: ">=0.1.0 <= 0.2.0"
 
 vars:
   package_name:
